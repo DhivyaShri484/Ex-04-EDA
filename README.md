@@ -160,7 +160,6 @@ sns.heatmap(df.corr(),annot=True)
 # Graphical analysis of non-categorical data or data with multiple categories--bivariate
 ![image](https://user-images.githubusercontent.com/94505585/164960340-b5fa9898-5a7f-4535-9c3e-5d443cb3f59b.png)
 ![image](https://user-images.githubusercontent.com/94505585/164960347-a12fbb43-2724-445f-83d6-2a9030ba6721.png)
-
 ![image](https://user-images.githubusercontent.com/94505585/164960351-e4a1f671-b6f8-4880-b9da-01b35f929d9d.png)
 ![image](https://user-images.githubusercontent.com/94505585/164960357-bcbc80ce-e206-43d2-8668-17d5d4898779.png)
 ![image](https://user-images.githubusercontent.com/94505585/164960361-ea9168c6-ef3d-44b2-ae3c-d3bd86947729.png)
